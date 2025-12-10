@@ -87,12 +87,14 @@ For now they serve as placeholders for future labs and experiments.
 
 > Focus: RE, pwn, binary vulnerabilities, and real-world exploit development.
 > Includes writeups, ROP labs, heap labs, crackmes, and bug bounty reports.
+> Includes also LLM-Assisted Bug Bounty Pipeline.
 
 **Sub-repos:**
 
 * 🔗 `reverse-labs`
 * 🔗 `pwn-labs`
 * 🔗 `ctf-writeups`
+* 🔗 `ai-bugbounty-framework`
 
 **Atlas document:**
 `directions/reverse.md`
